@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 
 	"github.com/open-policy-agent/opa/ast/internal/scanner"
 	"github.com/open-policy-agent/opa/ast/internal/tokens"
