@@ -44,7 +44,7 @@ require (
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.47.0
-	gopkg.in/yaml.v3
+	gopkg.in/yaml.v3 v3.0.1
 	oras.land/oras-go v1.2.0
 )
 
