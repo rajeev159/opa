@@ -1,4 +1,4 @@
-module github.com/open-policy-agent/opa
+module github.com/rajeev159/opa
 
 go 1.16
 
@@ -44,7 +44,7 @@ require (
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.47.0
-	gopkg.in/yaml.v2 v2.4.0
+	gopkg.in/yaml.v3 v2.4.0
 	oras.land/oras-go v1.2.0
 )
 
